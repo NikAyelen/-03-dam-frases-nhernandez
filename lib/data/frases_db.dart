@@ -1,7 +1,7 @@
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 
-import '../models/frase.dart';
+import '../models/frases.dart';
 
 class FrasesDb {
   FrasesDb._();
